@@ -1,0 +1,61 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>vantage</title>
+</head>
+<body style="background-color: white;">
+<h1 style="text-align:center;font-size:60px;color:white;background-color:black;">vantage</h1>
+<h1>Introduction:</h1>
+
+<p style="color:black;font-size:25px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOur app name is vantage. This app is designed for teacher and students. Teacher can monitor the reading time that one student spend in the lecture through our app. Teachers create &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspclasses in our app and upload their lectures. Student can read lectures through our app. Our app will work through students eye scan. App will detect students eye and count the time &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspthey spend reading the lectures.</p>
+
+<h1>Document Conventions:</h1>
+<h1>Description of Design Components:</h1>
+
+<p style="color:black;font-size:25px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTo design our project we need to break down our design as components. For this break down of our project design we need to detect the components we need to build it and these &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspcomponents are:
+           <br><br><h1>Server-side:</h1> 
+
+     <p style="color:black;font-size:25px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDatabase: Database will hold all the information about students and teachers. For example: Teacher’s username, password, class, lectures all the information will be stored into the &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdatabase.
+  
+<br><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDomain: To avail this app we need a domain name so that user can easily find the app online.
+<br><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCloud Space:  How many clients can use this app at a single time cloud space will determine this. If cloud space is not maintained well that causes app crush at any time.</p>
+       
+    <h1>Client-side:</h1>
+  
+     <p style="color:black;font-size:25px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMobile app:  This is for the clients who will use our app. The app will be install into client mobile. 
+ 
+         <h1>Third-party service:</h1></p>
+
+
+<p style="color:black;font-size:25px">
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAndroid Studio: This software will be used for our mobile app interface. We will do our maximum design into this. And also we will connect the database with this. <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLogin page, student registration page, teacher registration page, teacher login page, student login page the entire interface will be done by Android Studio. 
+<br><br>	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJava : Java is the platform we use for our mobile app. We will use java as our coding language.
+</p>
+</p>
+
+
+<h1>High-Level Component Design:</h1>
+
+<p style="color:black;font-size:25px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspIn this section we will discuss about how the components depend on each other. 
+</p>
+
+<img src="./1_files/a.jpg" alt="Sorry!" style="width:905px;height:355px">
+
+
+<p style="color:black;font-size:25px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJava will be the coding language for our app. It will work as a backend code in android studio. Database will also connect with android studio to collect data from it and as well retrieve &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdata. Mobile app interface and other stuffs will be handled by android studio.</p>
+
+<h1>Class diagrams:</h1>
+
+<img src="./1_files/b.jpeg" alt="Sorry!">
+
+<h1>Database Design:</h1>
+<img src="./1_files/c.jpg" alt="Sorry!">
+<h1>Implementation plan:</h1>
+ 
+
+ 
+
+
+
+
+
+
+</body></html>
